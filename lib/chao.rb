@@ -1,5 +1,7 @@
 require "chao/version"
 
 module Chao
-  # Your code goes here...
+  def self.hello
+    "hello"
+  end
 end
